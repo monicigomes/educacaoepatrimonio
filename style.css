@@ -13,19 +13,19 @@ body {
 
 #logotipo {
     /* LARGURA DO LOGOTIPO */
-    width: 300px;
+    width: 400px;
     /* MARGEM DO LOGOTIPO */
     margin: 20px;
 }
 
 #menu {
     /* COR DE FUNDO */
-    background-color: royalblue;
+    background-color: #3f2702;
     /* BORDA DO MENU SUPERIOR E INFERIOR */
     border-top: 10px solid #3f2702;
     border-bottom: 10px solid #3f2702;
 
-    /* ESPAÇAMENTO DO CONTEÚDO DO MENU */
+    /* ESPAÇAMENTO DO CONTEÚDO */
     padding: 10px;
     /* MARGEM INFERIOR */
     margin-bottom: 20px;
@@ -41,7 +41,7 @@ body {
 
 #menu a{
     /* COR DOS LINKS */
-    color: white;
+    color: #CFA76E;
     /* LETRAS MAIÚSCULAS */
     text-transform: uppercase;
     /* REMOVER SUBLINHADO */
@@ -86,7 +86,7 @@ body {
     /* ALTURA */
     height: 100px;
     /* COR  */
-    color: white;
+    color: :#5555;
     /* FONTE */
     font-family: sans-serif;
     /* ATIVAR O MODO GRID (LINHAS E COLUNAS) */
